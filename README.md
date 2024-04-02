@@ -3,7 +3,7 @@
 
 <br>
 
-Aklas aklą netoli tenuves.
+_Aklas aklą netoli tenuves.
 
 Akmuo kantrus, o žmogus dar kantresnis.
 
@@ -219,7 +219,7 @@ Veršiu nebliovęs, jaučiu nebūsi.
 
 Viena bėda nevaikščioja.
 
-Viena varna nuo mieto — kita į vietą.
+Viena varna nuo mieto — kita į vietą._
 
 Vis skalbiu — vis juoda, vis audžiu — vis nuoga.
 
