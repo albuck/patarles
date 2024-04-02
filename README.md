@@ -1,5 +1,6 @@
 # Lietuvių patarlės
 (Tautos išmintis posakiuose.)
+<br>
 
 Aklas aklą netoli tenuves.
 
