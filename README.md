@@ -71,6 +71,8 @@ Ir giliausias ežeras su dugnu, ir plačiausios marios su kraštu.
 
 Ir platu su kraštu, ir gilu su dugnu.
 
+Iš didelio rašto išėjo iš krašto.
+
 Išeisi tėvą baidydamas, pareisi duonos ieškodamas.
 
 Ylos maiše nepaslėpsi.
